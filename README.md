@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harihara-rajan&label=Profile%20views&color=0e75b6&style=flat" alt="harihara-rajan" /> </p>
 
-- 🔭 I’m currently working on [Pistachio Classification Project](https://github.com/harihara-rajan/Pistachio_Classification_Project)
+- 🔭 I’m currently working on [Pistachio Classification Project](https://github.com/harihara-rajan/EDA-Pistachio-Classification/tree/main)
 
 - 🌱 I’m currently learning **AWS Certified Machine Learning Speciality**
 

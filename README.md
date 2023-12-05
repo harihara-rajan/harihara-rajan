@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.proleapacademy.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fml.348f797a.gif&w=1920&q=75))](https://rishavchanda.io)
+![MasterHead](https://www.proleapacademy.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fml.348f797a.gif&w=1920&q=75)
 <h1 align="center">Hi 👋, I'm Hari</h1>
 <h3 align="center">Unleashing Innovation: A Passionate Machine Learning Engineer Transforming Data into Dreams with Algorithmic Excellence</h3>
 
